@@ -80,6 +80,5 @@ int main() {
     
     // Print the result (7 -> 0 -> 8)
     printList(result);  // Output: 7 -> 0 -> 8
-    
     return 0;
 }
